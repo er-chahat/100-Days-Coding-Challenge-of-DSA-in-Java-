@@ -1,6 +1,6 @@
 package com.chahat;
 import java.util.ArrayList;
-public class Question23 {
+public class QuestionSol {
     public static void main(String[] args) {
         int [][] matrix ={{7,8},{1,2}};
         System.out.println(luckyNum(matrix));
